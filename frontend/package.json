@@ -1,0 +1,1 @@
+{\n  "name": "frontend",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "react": "^18.2.0",\n    "react-dom": "^18.2.0",\n    "typescript": "^4.9.5"\n  },\n  "devDependencies": {\n    "@types/react": "^18.0.27",\n    "@types/react-dom": "^18.0.10"\n  }\n}
